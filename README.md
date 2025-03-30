@@ -1,5 +1,5 @@
 # Hi there, I'm Hongeinh! 👋
-![Cute Cat Sticker](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Developer Sticker](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
 I'm a **Seattle-based Software Engineer** and a Master's student in Computer Science at the City University of Seattle. I’m passionate about building scalable, efficient systems and exploring the realms of **AI**, **Cloud**, and **DevOps**. I love creating user-friendly applications with a touch of creativity and a lot of code! 💻
 
@@ -14,7 +14,8 @@ I'm a **Seattle-based Software Engineer** and a Master's student in Computer Sci
 - 📝 Avid blogger and open-source enthusiast
 - 🎨 Lover of cute aesthetics in design (check out my portfolio’s fractal tree animation!)
 
-![Cute Coffee Sticker](https://media.giphy.com/media/26uf2YTg6z5r2l7Yc/giphy.gif) *Fueled by coffee and code!*
+![Cute Cat Sticker](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+*Fueled by coffee and code!*
 
 ---
 
@@ -29,7 +30,8 @@ Here’s what I work with:
 - **AI & ML**: Large Language Models (LLMs) | TensorFlow
 - **Tools**: Git | GitHub Actions | CI/CD Pipelines
 
-![Cute Robot Sticker](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif) *Always learning new tech!*
+![Cute Robot Sticker](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif) 
+*Always learning new tech!*
 
 ---
 
@@ -43,7 +45,7 @@ I recently worked as a **Full Stack Developer**, building a web application with
 - **Vercel** for seamless deployment and edge performance
 - **LLMs** for intelligent features like automated content generation
 
-This project improved user engagement by 25% and reduced load times by 30%! 🚀 Check out my [portfolio](https://hongeinh-portfolio.onrender.com) for more details.
+This project improved user engagement by 25% and reduced load times by 30%! 🚀 Check out my [portfolio](https://hongeinh.github.io) for more details.
 
 ---
 
@@ -53,7 +55,8 @@ This project improved user engagement by 25% and reduced load times by 30%! 🚀
 - 🔗 LinkedIn: [linkedin.com/in/hongeinh](https://linkedin.com/in/hongeinh)
 - 🐙 GitHub: [github.com/hongeinh](https://github.com/hongeinh)
 
-![Cute Mail Sticker](https://media.giphy.com/media/l0HlPuurz4nfrZ3qU/giphy.gif) *Drop me a message!*
+![Cute Mail Sticker](https://media.giphy.com/media/l0HlPuurz4nfrZ3qU/giphy.gif)  
+*Drop me a message!*
 
 ---
 
