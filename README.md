@@ -25,9 +25,6 @@
 - 🔧 **DevOps & Infrastructure as Code (Terraform, Kubernetes, CI/CD)**  
 - 🤖 **Generative AI & Large Language Models**  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongeinh&show_icons=true&theme=radical)  
-
 ## 📬 Let's Connect!  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=flat&logo=github&logoColor=white)](https://hongeinh.github.io/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hongeinh)  
