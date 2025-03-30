@@ -66,7 +66,8 @@ This project improved user engagement by 25% and reduced load times by 30%! 🚀
 - I’m a huge fan of coffee shops in Seattle ☕
 - In my free time, I enjoy blogging about tech and exploring new AI tools.
 
-![Cute Star Sticker](https://media.giphy.com/media/3o7TKz2B8wZ9vZJ5gQ/giphy.gif) *Let’s make coding fun!*
+![Cute Star Sticker](https://media.giphy.com/media/3o7TKz2B8wZ9vZJ5gQ/giphy.gif)   
+*Let’s make coding fun!*
 
 ---
 
