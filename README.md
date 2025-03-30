@@ -1,34 +1,70 @@
-# Hey there! 👋 I'm Anh
-![Developer Sticker](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+# Hi there, I'm Hongeinh! 👋
+![Cute Cat Sticker](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-## 🚀 About Me  
-👨‍💻 Full Stack Developer | AI Enthusiast | Cloud Explorer  
-
-- 🏗 Building cool stuff with **MERN, Svelte, and FastAPI**  
-- ⚡ Working on **AI-powered projects**
-- 🔥 Passionate about **matching algorithms & smart recommendations**  
-- 🌐 Hosting projects using **GitHub Pages, Vercel, and Firebase**  
-
-## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-
-## 🌱 Current Focus  
-- ☁ **AWS Solution Architect learning & certification**  
-- 🔧 **DevOps & Infrastructure as Code (Terraform, Kubernetes, CI/CD)**  
-- 🤖 **Generative AI & Large Language Models**  
-
-## 📬 Let's Connect!  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=flat&logo=github&logoColor=white)](https://hongeinh.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hongeinh)  
+I'm a **Seattle-based Software Engineer** and a Master's student in Computer Science at the City University of Seattle. I’m passionate about building scalable, efficient systems and exploring the realms of **AI**, **Cloud**, and **DevOps**. I love creating user-friendly applications with a touch of creativity and a lot of code! 💻
 
 ---
 
-⚡ **Fun fact:** I love pickleball and hiking🧈🔥  
+## 🌟 About Me
+
+- 📍 Based in Seattle, WA
+- 🎓 Pursuing a Master's in Computer Science at City University of Seattle
+- 💡 Passionate about AI, Cloud, and DevOps
+- 🛠️ Experienced in full-stack development, from responsive frontends to high-performance backends
+- 📝 Avid blogger and open-source enthusiast
+- 🎨 Lover of cute aesthetics in design (check out my portfolio’s fractal tree animation!)
+
+![Cute Coffee Sticker](https://media.giphy.com/media/26uf2YTg6z5r2l7Yc/giphy.gif) *Fueled by coffee and code!*
+
+---
+
+## 🛠️ Tech Stack
+
+Here’s what I work with:
+
+- **Languages**: Python 🐍 | Java ☕ | JavaScript/TypeScript 🌐
+- **Frontend**: Svelte (Flowbite Svelte) | HTML | CSS | React
+- **Backend**: FastAPI | Node.js | Firebase
+- **Cloud & Deployment**: Vercel | AWS | Docker 🐳
+- **AI & ML**: Large Language Models (LLMs) | TensorFlow
+- **Tools**: Git | GitHub Actions | CI/CD Pipelines
+
+![Cute Robot Sticker](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif) *Always learning new tech!*
+
+---
+
+## 💼 Recent Work
+
+I recently worked as a **Full Stack Developer**, building a web application with:
+
+- **Flowbite Svelte** for responsive UI components
+- **FastAPI** for high-performance APIs
+- **Firebase** for real-time database and authentication
+- **Vercel** for seamless deployment and edge performance
+- **LLMs** for intelligent features like automated content generation
+
+This project improved user engagement by 25% and reduced load times by 30%! 🚀 Check out my [portfolio](https://hongeinh-portfolio.onrender.com) for more details.
+
+---
+
+## 📫 Let’s Connect!
+
+- 📧 Email: [honganh3179@gmail.com](mailto:honganh3179@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/hongeinh](https://linkedin.com/in/hongeinh)
+- 🐙 GitHub: [github.com/hongeinh](https://github.com/hongeinh)
+
+![Cute Mail Sticker](https://media.giphy.com/media/l0HlPuurz4nfrZ3qU/giphy.gif) *Drop me a message!*
+
+---
+
+## 🎉 Fun Facts
+
+- I love adding cute elements to my projects—like the fractal tree animation on my portfolio! 🌳
+- I’m a huge fan of coffee shops in Seattle ☕
+- In my free time, I enjoy blogging about tech and exploring new AI tools.
+
+![Cute Star Sticker](https://media.giphy.com/media/3o7TKz2B8wZ9vZJ5gQ/giphy.gif) *Let’s make coding fun!*
+
+---
+
+*Thanks for visiting my profile! Let’s build something amazing together! 💖*
