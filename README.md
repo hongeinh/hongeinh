@@ -14,7 +14,7 @@ I'm a **Seattle-based Software Engineer** and a Master's student in Computer Sci
 - 📝 Avid blogger and open-source enthusiast
 - 🎨 Lover of cute aesthetics in design (check out my portfolio’s fractal tree animation!)
 
-![Cute Cat Sticker](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Cute Cat Sticker](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
 *Fueled by coffee and code!*
 
 ---
@@ -30,7 +30,7 @@ Here’s what I work with:
 - **AI & ML**: Large Language Models (LLMs) | TensorFlow
 - **Tools**: Git | GitHub Actions | CI/CD Pipelines
 
-![Cute Robot Sticker](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif) 
+![Cute Robot Sticker](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)   
 *Always learning new tech!*
 
 ---
